@@ -1,0 +1,6 @@
+C:\Users\SPIDER-INC2\source\repos\Zadanie2\Zadanie2\bin\Debug\Zadanie2.dll
+C:\Users\SPIDER-INC2\source\repos\Zadanie2\Zadanie2\bin\Debug\Zadanie2.pdb
+C:\Users\SPIDER-INC2\source\repos\Zadanie2\Zadanie2\obj\Debug\Zadanie2.csprojAssemblyReference.cache
+C:\Users\SPIDER-INC2\source\repos\Zadanie2\Zadanie2\obj\Debug\Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\SPIDER-INC2\source\repos\Zadanie2\Zadanie2\obj\Debug\Zadanie2.dll
+C:\Users\SPIDER-INC2\source\repos\Zadanie2\Zadanie2\obj\Debug\Zadanie2.pdb
